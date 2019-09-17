@@ -1,0 +1,1223 @@
+﻿
+                <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="693" height="4037" shape-rendering="optimizeSpeed">
+                
+                <g>
+                   <rect x="50" y="65" width="412.2" height="30" rx="3" ry="3" style="fill:#90caf9; stroke:#444; stroke-width:1"></rect>
+                   <title>const debug = require('debug')('egg-core:config')</title>
+            <text x="65" y="85" font-family="monospace" font-size="13" fill="#222">
+                <tspan x="65" y="85">const debug = require('debug')('egg-core:config')</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="50" y="113.5" width="248.4" height="30" rx="3" ry="3" style="fill:#90caf9; stroke:#444; stroke-width:1"></rect>
+                   <title>const path = require('path')</title>
+            <text x="65" y="133.5" font-family="monospace" font-size="13" fill="#222">
+                <tspan x="65" y="133.5">const path = require('path')</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="50" y="162" width="287.4" height="30" rx="3" ry="3" style="fill:#90caf9; stroke:#444; stroke-width:1"></rect>
+                   <title>const extend = require('extend2')</title>
+            <text x="65" y="182" font-family="monospace" font-size="13" fill="#222">
+                <tspan x="65" y="182">const extend = require('extend2')</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="50" y="210.5" width="279.6" height="30" rx="3" ry="3" style="fill:#90caf9; stroke:#444; stroke-width:1"></rect>
+                   <title>const assert = require('assert')</title>
+            <text x="65" y="230.5" font-family="monospace" font-size="13" fill="#222">
+                <tspan x="65" y="230.5">const assert = require('assert')</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="50" y="259" width="279.6" height="30" rx="3" ry="3" style="fill:#90caf9; stroke:#444; stroke-width:1"></rect>
+                   <title>const {...} = require('console')</title>
+            <text x="65" y="279" font-family="monospace" font-size="13" fill="#222">
+                <tspan x="65" y="279">const {...} = require('console')</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="87" y="307.5" width="84.6" height="30" rx="2" ry="2" style="fill:#90caf9; stroke:#444; stroke-width:1"></rect>
+                   <title>Console</title>
+            <text x="102" y="327.5" font-family="monospace" font-size="13" fill="#222">
+                <tspan x="102" y="327.5">Console</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="50" y="356" width="443.4" height="30" rx="3" ry="3" style="fill:#90caf9; stroke:#444; stroke-width:1"></rect>
+                   <title>const SET_CONFIG_META = Symbol('Loader#setConfigMeta')</title>
+            <text x="65" y="376" font-family="monospace" font-size="13" fill="#222">
+                <tspan x="65" y="376">const SET_CONFIG_META = Symbol('Loader#setConfigMe...</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="50" y="404.5" width="186" height="30" rx="3" ry="3" style="fill:#90caf9; stroke:#444; stroke-width:1"></rect>
+                   <title>module.exports = {*}</title>
+            <text x="65" y="424.5" font-family="monospace" font-size="13" fill="#222">
+                <tspan x="65" y="424.5">module.exports = {*}</tspan>
+            </text>
+                   
+                   
+                </g>
+            <g>
+                <rect x="87" y="468" width="143.6" height="30" style="fill:#a5d6a7; stroke:#444; stroke-width:1"></rect>
+                    
+                <line x1="97" y1="468" x2="97" y2="498" style="fill:#a5d6a7; stroke:#444; stroke-width:1"></line>
+                <line x1="220.6" y1="468" x2="220.6" y2="498" style="fill:#a5d6a7; stroke:#444; stroke-width:1"></line>
+             
+                <title>loadConfig()</title>
+            <text x="112" y="488" font-family="monospace" font-size="13" fill="#222">
+                <tspan x="112" y="488">loadConfig()</tspan>
+            </text>
+                
+            </g>
+                <g>
+                   <rect x="124" y="516.5" width="108" height="30" rx="3" ry="3" style="fill:#90caf9; stroke:#444; stroke-width:1"></rect>
+                   <title>loadConfig</title>
+            <text x="139" y="536.5" font-family="monospace" font-size="13" fill="#222">
+                <tspan x="139" y="536.5">loadConfig</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="124" y="565" width="279.6" height="30" rx="2" ry="2" style="fill:#C5E1A5; stroke:#444; stroke-width:1"></rect>
+                   <title>this.timing.start('Load Config')</title>
+            <text x="139" y="585" font-family="monospace" font-size="13" fill="#222">
+                <tspan x="139" y="585">this.timing.start('Load Config')</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="124" y="613.5" width="193.79999999999998" height="30" rx="3" ry="3" style="fill:#90caf9; stroke:#444; stroke-width:1"></rect>
+                   <title>this.configMeta = {*}</title>
+            <text x="139" y="633.5" font-family="monospace" font-size="13" fill="#222">
+                <tspan x="139" y="633.5">this.configMeta = {*}</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="124" y="662" width="170.4" height="30" rx="3" ry="3" style="fill:#90caf9; stroke:#444; stroke-width:1"></rect>
+                   <title>const target = {*}</title>
+            <text x="139" y="682" font-family="monospace" font-size="13" fill="#222">
+                <tspan x="139" y="682">const target = {*}</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="124" y="710.5" width="357.59999999999997" height="30" rx="3" ry="3" style="fill:#90caf9; stroke:#444; stroke-width:1"></rect>
+                   <title>const appConfig = this._preloadAppConfig()</title>
+            <text x="139" y="730.5" font-family="monospace" font-size="13" fill="#222">
+                <tspan x="139" y="730.5">const appConfig = this._preloadAppConfig()</tspan>
+            </text>
+                   
+                   
+                </g><g>
+
+            <rect x="154" y="794" width="372" height="30" rx="3" ry="3" style="fill:#b39ddb; stroke:#444; stroke-width:1"></rect>
+            <polygon points="124,809 154,779 184,809 154,839" style="fill:#b39ddb; stroke:#444; stroke-width:1"></polygon>
+                
+            <title> filename of this.getTypeFiles('config')</title>
+            <text x="199" y="814" font-family="monospace" font-size="13" fill="#222">
+                <tspan x="199" y="814"> filename of this.getTypeFiles('config')</tspan>
+            </text>
+            
+            <text x="142.3" y="814" font-family="monospace" font-size="13" fill="#222">for</text>
+        </g>
+                <g>
+                   <rect x="174" y="849" width="240.6" height="30" rx="2" ry="2" style="fill:#C5E1A5; stroke:#444; stroke-width:1"></rect>
+                   <title>this.getTypeFiles('config')</title>
+            <text x="189" y="869" font-family="monospace" font-size="13" fill="#222">
+                <tspan x="189" y="869">this.getTypeFiles('config')</tspan>
+            </text>
+                   
+                   
+                </g><g>
+
+            <rect x="204" y="932.5" width="278.4" height="30" rx="3" ry="3" style="fill:#b39ddb; stroke:#444; stroke-width:1"></rect>
+            <polygon points="174,947.5 204,917.5 234,947.5 204,977.5" style="fill:#b39ddb; stroke:#444; stroke-width:1"></polygon>
+                
+            <title> unit of this.getLoadUnits()</title>
+            <text x="249" y="952.5" font-family="monospace" font-size="13" fill="#222">
+                <tspan x="249" y="952.5"> unit of this.getLoadUnits()</tspan>
+            </text>
+            
+            <text x="192.3" y="952.5" font-family="monospace" font-size="13" fill="#222">for</text>
+        </g>
+                <g>
+                   <rect x="224" y="987.5" width="178.2" height="30" rx="2" ry="2" style="fill:#C5E1A5; stroke:#444; stroke-width:1"></rect>
+                   <title>this.getLoadUnits()</title>
+            <text x="239" y="1007.5" font-family="monospace" font-size="13" fill="#222">
+                <tspan x="239" y="1007.5">this.getLoadUnits()</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="224" y="1036" width="287.4" height="30" rx="3" ry="3" style="fill:#90caf9; stroke:#444; stroke-width:1"></rect>
+                   <title>const isApp = unit.type === 'app'</title>
+            <text x="239" y="1056" font-family="monospace" font-size="13" fill="#222">
+                <tspan x="239" y="1056">const isApp = unit.type === 'app'</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="224" y="1084.5" width="443.4" height="30" rx="3" ry="3" style="fill:#90caf9; stroke:#444; stroke-width:1"></rect>
+                   <title>const config = this._loadConfig(unit.path, filename, isApp ? undefined : appConfig, unit.type)</title>
+            <text x="239" y="1104.5" font-family="monospace" font-size="13" fill="#222">
+                <tspan x="239" y="1104.5">const config = this._loadConfig(unit.path, filenam...</tspan>
+            </text>
+                   
+                   
+                </g><g>
+            <rect x="291" y="1148" width="114.6" height="30" rx="3" ry="3" style="fill:#ce93d8; stroke:#444; stroke-width:1"></rect>                
+            <polygon points="261,1163 291,1133 321,1163 291,1193" style="fill:#ce93d8; stroke:#444; stroke-width:1"></polygon>
+            <title>(isApp)</title>
+            <text x="336" y="1168" font-family="monospace" font-size="13" fill="#222">
+                <tspan x="336" y="1168">(isApp)</tspan>
+            </text>
+            
+            <text x="287.1" y="1168" font-family="monospace" font-size="13" fill="#222">?</text> <text x="298.8" y="1194.95" font-family="monospace" font-size="13" fill="#222">+</text> <text x="409.5" y="1161.05" font-family="monospace" font-size="13" fill="#222">-</text>
+        </g>
+                <g>
+                   <rect x="311" y="1203" width="100.2" height="30" rx="3" ry="3" style="fill:#90caf9; stroke:#444; stroke-width:1"></rect>
+                   <title>undefined</title>
+            <text x="326" y="1223" font-family="monospace" font-size="13" fill="#222">
+                <tspan x="326" y="1223">undefined</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="471.2" y="1203" width="100.2" height="30" rx="3" ry="3" style="fill:#90caf9; stroke:#444; stroke-width:1"></rect>
+                   <title>appConfig</title>
+            <text x="486.2" y="1223" font-family="monospace" font-size="13" fill="#222">
+                <tspan x="486.2" y="1223">appConfig</tspan>
+            </text>
+                   
+                   
+                </g><g>
+            <rect x="254" y="1268" width="130.2" height="30" rx="3" ry="3" style="fill:#ce93d8; stroke:#444; stroke-width:1"></rect>                
+            <polygon points="224,1283 254,1253 284,1283 254,1313" style="fill:#ce93d8; stroke:#444; stroke-width:1"></polygon>
+            <title>(!config)</title>
+            <text x="299" y="1288" font-family="monospace" font-size="13" fill="#222">
+                <tspan x="299" y="1288">(!config)</tspan>
+            </text>
+            
+            <text x="246.2" y="1288" font-family="monospace" font-size="13" fill="#222">if</text> <text x="261.8" y="1314.95" font-family="monospace" font-size="13" fill="#222">+</text> 
+        </g>
+            <g>
+                <rect x="274" y="1323" width="92.4" height="30" rx="2" ry="2" style="fill:#90caf9; stroke:#444; stroke-width:1"></rect>
+                
+                <line x1="366.4" y1="1333" x2="371.4" y2="1333" style="fill:#b39ddb; stroke:#444; stroke-width:1"></line>
+                
+                <line x1="366.4" y1="1343" x2="371.4" y2="1343" style="fill:#b39ddb; stroke:#444; stroke-width:1"></line>
+
+                <path d="M371.4, 1324 L387.4, 1338 L371.4, 1352 Z" fill="#b39ddb" stroke="#444" stroke-width="1"></path>
+                             
+                <title>continue</title>
+            <text x="289" y="1343" font-family="monospace" font-size="13" fill="#222">
+                <tspan x="289" y="1343">continue</tspan>
+            </text>
+                
+            </g>
+                <g>
+                   <rect x="224" y="1373" width="443.4" height="30" rx="2" ry="2" style="fill:#C5E1A5; stroke:#444; stroke-width:1"></rect>
+                   <title>debug('Loaded config %s/%s, %j', unit.path, filename, config)</title>
+            <text x="239" y="1393" font-family="monospace" font-size="13" fill="#222">
+                <tspan x="239" y="1393">debug('Loaded config %s/%s, %j', unit.path, filena...</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="224" y="1421.5" width="248.4" height="30" rx="2" ry="2" style="fill:#C5E1A5; stroke:#444; stroke-width:1"></rect>
+                   <title>extend(true, target, config)</title>
+            <text x="239" y="1441.5" font-family="monospace" font-size="13" fill="#222">
+                <tspan x="239" y="1441.5">extend(true, target, config)</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="124" y="1470" width="443.4" height="30" rx="3" ry="3" style="fill:#90caf9; stroke:#444; stroke-width:1"></rect>
+                   <title>target.coreMiddleware = target.coreMiddlewares = target.coreMiddleware || []</title>
+            <text x="139" y="1490" font-family="monospace" font-size="13" fill="#222">
+                <tspan x="139" y="1490">target.coreMiddleware = target.coreMiddlewares = t...</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="161" y="1518.5" width="443.4" height="30" rx="3" ry="3" style="fill:#90caf9; stroke:#444; stroke-width:1"></rect>
+                   <title>target.coreMiddlewares = target.coreMiddleware || []</title>
+            <text x="176" y="1538.5" font-family="monospace" font-size="13" fill="#222">
+                <tspan x="176" y="1538.5">target.coreMiddlewares = target.coreMiddleware || ...</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="124" y="1567" width="443.4" height="30" rx="3" ry="3" style="fill:#90caf9; stroke:#444; stroke-width:1"></rect>
+                   <title>target.appMiddleware = target.appMiddlewares = target.middleware || []</title>
+            <text x="139" y="1587" font-family="monospace" font-size="13" fill="#222">
+                <tspan x="139" y="1587">target.appMiddleware = target.appMiddlewares = tar...</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="161" y="1615.5" width="396.59999999999997" height="30" rx="3" ry="3" style="fill:#90caf9; stroke:#444; stroke-width:1"></rect>
+                   <title>target.appMiddlewares = target.middleware || []</title>
+            <text x="176" y="1635.5" font-family="monospace" font-size="13" fill="#222">
+                <tspan x="176" y="1635.5">target.appMiddlewares = target.middleware || []</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="124" y="1664" width="186" height="30" rx="3" ry="3" style="fill:#90caf9; stroke:#444; stroke-width:1"></rect>
+                   <title>this.config = target</title>
+            <text x="139" y="1684" font-family="monospace" font-size="13" fill="#222">
+                <tspan x="139" y="1684">this.config = target</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="124" y="1712.5" width="264" height="30" rx="2" ry="2" style="fill:#C5E1A5; stroke:#444; stroke-width:1"></rect>
+                   <title>this.timing.end('Load Config')</title>
+            <text x="139" y="1732.5" font-family="monospace" font-size="13" fill="#222">
+                <tspan x="139" y="1732.5">this.timing.end('Load Config')</tspan>
+            </text>
+                   
+                   
+                </g>
+            <g>
+                <rect x="87" y="1776" width="198.2" height="30" style="fill:#a5d6a7; stroke:#444; stroke-width:1"></rect>
+                    
+                <line x1="97" y1="1776" x2="97" y2="1806" style="fill:#a5d6a7; stroke:#444; stroke-width:1"></line>
+                <line x1="275.2" y1="1776" x2="275.2" y2="1806" style="fill:#a5d6a7; stroke:#444; stroke-width:1"></line>
+             
+                <title>_preloadAppConfig()</title>
+            <text x="112" y="1796" font-family="monospace" font-size="13" fill="#222">
+                <tspan x="112" y="1796">_preloadAppConfig()</tspan>
+            </text>
+                
+            </g>
+                <g>
+                   <rect x="124" y="1824.5" width="162.6" height="30" rx="3" ry="3" style="fill:#90caf9; stroke:#444; stroke-width:1"></rect>
+                   <title>_preloadAppConfig</title>
+            <text x="139" y="1844.5" font-family="monospace" font-size="13" fill="#222">
+                <tspan x="139" y="1844.5">_preloadAppConfig</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="124" y="1873" width="443.4" height="30" rx="3" ry="3" style="fill:#90caf9; stroke:#444; stroke-width:1"></rect>
+                   <title>const names = ['config.default', `config.${this.serverEnv}`]</title>
+            <text x="139" y="1893" font-family="monospace" font-size="13" fill="#222">
+                <tspan x="139" y="1893">const names = ['config.default', `config.${this.se...</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="124" y="1921.5" width="170.4" height="30" rx="3" ry="3" style="fill:#90caf9; stroke:#444; stroke-width:1"></rect>
+                   <title>const target = {*}</title>
+            <text x="139" y="1941.5" font-family="monospace" font-size="13" fill="#222">
+                <tspan x="139" y="1941.5">const target = {*}</tspan>
+            </text>
+                   
+                   
+                </g><g>
+
+            <rect x="154" y="2005" width="200.4" height="30" rx="3" ry="3" style="fill:#b39ddb; stroke:#444; stroke-width:1"></rect>
+            <polygon points="124,2020 154,1990 184,2020 154,2050" style="fill:#b39ddb; stroke:#444; stroke-width:1"></polygon>
+                
+            <title> filename of names</title>
+            <text x="199" y="2025" font-family="monospace" font-size="13" fill="#222">
+                <tspan x="199" y="2025"> filename of names</tspan>
+            </text>
+            
+            <text x="142.3" y="2025" font-family="monospace" font-size="13" fill="#222">for</text>
+        </g>
+                <g>
+                   <rect x="174" y="2060" width="443.4" height="30" rx="3" ry="3" style="fill:#90caf9; stroke:#444; stroke-width:1"></rect>
+                   <title>const config = this._loadConfig(this.options.baseDir, filename, undefined, 'app')</title>
+            <text x="189" y="2080" font-family="monospace" font-size="13" fill="#222">
+                <tspan x="189" y="2080">const config = this._loadConfig(this.options.baseD...</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="174" y="2108.5" width="248.4" height="30" rx="2" ry="2" style="fill:#C5E1A5; stroke:#444; stroke-width:1"></rect>
+                   <title>extend(true, target, config)</title>
+            <text x="189" y="2128.5" font-family="monospace" font-size="13" fill="#222">
+                <tspan x="189" y="2128.5">extend(true, target, config)</tspan>
+            </text>
+                   
+                   
+                </g>
+            <g>
+                <rect x="124" y="2157" width="131.39999999999998" height="30" rx="3" ry="3" style="fill:#90caf9; stroke:#444; stroke-width:1"></rect>
+                
+                <line x1="255.39999999999998" y1="2167" x2="260.4" y2="2167" style="fill:#a5d6a7; stroke:#444; stroke-width:1"></line>
+                
+                <line x1="255.39999999999998" y1="2177" x2="260.4" y2="2177" style="fill:#a5d6a7; stroke:#444; stroke-width:1"></line>
+
+                <path d="M260.4, 2161 L276.4, 2172 L260.4, 2183 Z" fill="#a5d6a7" stroke="#444" stroke-width="1"></path>
+                             
+                <title>return target</title>
+            <text x="139" y="2177" font-family="monospace" font-size="13" fill="#222">
+                <tspan x="139" y="2177">return target</tspan>
+            </text>
+                
+            </g>
+            <g>
+                <rect x="87" y="2220.5" width="432.2" height="30" style="fill:#a5d6a7; stroke:#444; stroke-width:1"></rect>
+                    
+                <line x1="97" y1="2220.5" x2="97" y2="2250.5" style="fill:#a5d6a7; stroke:#444; stroke-width:1"></line>
+                <line x1="509.20000000000005" y1="2220.5" x2="509.20000000000005" y2="2250.5" style="fill:#a5d6a7; stroke:#444; stroke-width:1"></line>
+             
+                <title>_loadConfig(dirpath, filename, extraInject, type)</title>
+            <text x="112" y="2240.5" font-family="monospace" font-size="13" fill="#222">
+                <tspan x="112" y="2240.5">_loadConfig(dirpath, filename, extraInject, type)</tspan>
+            </text>
+                
+            </g>
+                <g>
+                   <rect x="124" y="2269" width="115.8" height="30" rx="3" ry="3" style="fill:#90caf9; stroke:#444; stroke-width:1"></rect>
+                   <title>_loadConfig</title>
+            <text x="139" y="2289" font-family="monospace" font-size="13" fill="#222">
+                <tspan x="139" y="2289">_loadConfig</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="124" y="2317.5" width="295.2" height="30" rx="3" ry="3" style="fill:#90caf9; stroke:#444; stroke-width:1"></rect>
+                   <title>const isPlugin = type === 'plugin'</title>
+            <text x="139" y="2337.5" font-family="monospace" font-size="13" fill="#222">
+                <tspan x="139" y="2337.5">const isPlugin = type === 'plugin'</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="124" y="2366" width="248.4" height="30" rx="3" ry="3" style="fill:#90caf9; stroke:#444; stroke-width:1"></rect>
+                   <title>const isApp = type === 'app'</title>
+            <text x="139" y="2386" font-family="monospace" font-size="13" fill="#222">
+                <tspan x="139" y="2386">const isApp = type === 'app'</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="124" y="2414.5" width="443.4" height="30" rx="3" ry="3" style="fill:#90caf9; stroke:#444; stroke-width:1"></rect>
+                   <title>let filepath = this.resolveModule(path.join(dirpath, 'config', filename))</title>
+            <text x="139" y="2434.5" font-family="monospace" font-size="13" fill="#222">
+                <tspan x="139" y="2434.5">let filepath = this.resolveModule(path.join(dirpat...</tspan>
+            </text>
+                   
+                   
+                </g><g>
+            <rect x="154" y="2478" width="403.2" height="30" rx="3" ry="3" style="fill:#ce93d8; stroke:#444; stroke-width:1"></rect>                
+            <polygon points="124,2493 154,2463 184,2493 154,2523" style="fill:#ce93d8; stroke:#444; stroke-width:1"></polygon>
+            <title>(filename === 'config.default' &amp;&amp; !filepath)</title>
+            <text x="199" y="2498" font-family="monospace" font-size="13" fill="#222">
+                <tspan x="199" y="2498">(filename === 'config.default' &amp;&amp; !filepath)</tspan>
+            </text>
+            
+            <text x="146.2" y="2498" font-family="monospace" font-size="13" fill="#222">if</text> <text x="161.8" y="2524.95" font-family="monospace" font-size="13" fill="#222">+</text> 
+        </g>
+                <g>
+                   <rect x="174" y="2533" width="443.4" height="30" rx="3" ry="3" style="fill:#90caf9; stroke:#444; stroke-width:1"></rect>
+                   <title>filepath = this.resolveModule(path.join(dirpath, 'config/config'))</title>
+            <text x="189" y="2553" font-family="monospace" font-size="13" fill="#222">
+                <tspan x="189" y="2553">filepath = this.resolveModule(path.join(dirpath, '...</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="124" y="2583" width="443.4" height="30" rx="3" ry="3" style="fill:#90caf9; stroke:#444; stroke-width:1"></rect>
+                   <title>const config = this.loadFile(filepath, this.appInfo, extraInject)</title>
+            <text x="139" y="2603" font-family="monospace" font-size="13" fill="#222">
+                <tspan x="139" y="2603">const config = this.loadFile(filepath, this.appInf...</tspan>
+            </text>
+                   
+                   
+                </g><g>
+            <rect x="154" y="2646.5" width="130.2" height="30" rx="3" ry="3" style="fill:#ce93d8; stroke:#444; stroke-width:1"></rect>                
+            <polygon points="124,2661.5 154,2631.5 184,2661.5 154,2691.5" style="fill:#ce93d8; stroke:#444; stroke-width:1"></polygon>
+            <title>(!config)</title>
+            <text x="199" y="2666.5" font-family="monospace" font-size="13" fill="#222">
+                <tspan x="199" y="2666.5">(!config)</tspan>
+            </text>
+            
+            <text x="146.2" y="2666.5" font-family="monospace" font-size="13" fill="#222">if</text> <text x="161.8" y="2693.45" font-family="monospace" font-size="13" fill="#222">+</text> 
+        </g>
+            <g>
+                <rect x="174" y="2701.5" width="115.80000000000001" height="30" rx="3" ry="3" style="fill:#90caf9; stroke:#444; stroke-width:1"></rect>
+                
+                <line x1="289.8" y1="2711.5" x2="294.8" y2="2711.5" style="fill:#a5d6a7; stroke:#444; stroke-width:1"></line>
+                
+                <line x1="289.8" y1="2721.5" x2="294.8" y2="2721.5" style="fill:#a5d6a7; stroke:#444; stroke-width:1"></line>
+
+                <path d="M294.8, 2705.5 L310.8, 2716.5 L294.8, 2727.5 Z" fill="#a5d6a7" stroke="#444" stroke-width="1"></path>
+                             
+                <title>return null</title>
+            <text x="189" y="2721.5" font-family="monospace" font-size="13" fill="#222">
+                <tspan x="189" y="2721.5">return null</tspan>
+            </text>
+                
+            </g><g>
+            <rect x="154" y="2766.5" width="208.2" height="30" rx="3" ry="3" style="fill:#ce93d8; stroke:#444; stroke-width:1"></rect>                
+            <polygon points="124,2781.5 154,2751.5 184,2781.5 154,2811.5" style="fill:#ce93d8; stroke:#444; stroke-width:1"></polygon>
+            <title>(isPlugin || isApp)</title>
+            <text x="199" y="2786.5" font-family="monospace" font-size="13" fill="#222">
+                <tspan x="199" y="2786.5">(isPlugin || isApp)</tspan>
+            </text>
+            
+            <text x="146.2" y="2786.5" font-family="monospace" font-size="13" fill="#222">if</text> <text x="161.8" y="2813.45" font-family="monospace" font-size="13" fill="#222">+</text> 
+        </g>
+                <g>
+                   <rect x="174" y="2821.5" width="443.4" height="30" rx="2" ry="2" style="fill:#C5E1A5; stroke:#444; stroke-width:1"></rect>
+                   <title>assert(!config.coreMiddleware, 'Can not define coreMiddleware in app or plugin')</title>
+            <text x="189" y="2841.5" font-family="monospace" font-size="13" fill="#222">
+                <tspan x="189" y="2841.5">assert(!config.coreMiddleware, 'Can not define cor...</tspan>
+            </text>
+                   
+                   
+                </g><g>
+            <rect x="154" y="2886.5" width="122.4" height="30" rx="3" ry="3" style="fill:#ce93d8; stroke:#444; stroke-width:1"></rect>                
+            <polygon points="124,2901.5 154,2871.5 184,2901.5 154,2931.5" style="fill:#ce93d8; stroke:#444; stroke-width:1"></polygon>
+            <title>(!isApp)</title>
+            <text x="199" y="2906.5" font-family="monospace" font-size="13" fill="#222">
+                <tspan x="199" y="2906.5">(!isApp)</tspan>
+            </text>
+            
+            <text x="146.2" y="2906.5" font-family="monospace" font-size="13" fill="#222">if</text> <text x="161.8" y="2933.45" font-family="monospace" font-size="13" fill="#222">+</text> 
+        </g>
+                <g>
+                   <rect x="174" y="2941.5" width="443.4" height="30" rx="2" ry="2" style="fill:#C5E1A5; stroke:#444; stroke-width:1"></rect>
+                   <title>assert(!config.middleware, 'Can not define middleware in ' + filepath)</title>
+            <text x="189" y="2961.5" font-family="monospace" font-size="13" fill="#222">
+                <tspan x="189" y="2961.5">assert(!config.middleware, 'Can not define middlew...</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="124" y="2991.5" width="334.2" height="30" rx="2" ry="2" style="fill:#C5E1A5; stroke:#444; stroke-width:1"></rect>
+                   <title>this[SET_CONFIG_META](config, filepath)</title>
+            <text x="139" y="3011.5" font-family="monospace" font-size="13" fill="#222">
+                <tspan x="139" y="3011.5">this[SET_CONFIG_META](config, filepath)</tspan>
+            </text>
+                   
+                   
+                </g>
+            <g>
+                <rect x="124" y="3040" width="131.39999999999998" height="30" rx="3" ry="3" style="fill:#90caf9; stroke:#444; stroke-width:1"></rect>
+                
+                <line x1="255.39999999999998" y1="3050" x2="260.4" y2="3050" style="fill:#a5d6a7; stroke:#444; stroke-width:1"></line>
+                
+                <line x1="255.39999999999998" y1="3060" x2="260.4" y2="3060" style="fill:#a5d6a7; stroke:#444; stroke-width:1"></line>
+
+                <path d="M260.4, 3044 L276.4, 3055 L260.4, 3066 Z" fill="#a5d6a7" stroke="#444" stroke-width="1"></path>
+                             
+                <title>return config</title>
+            <text x="139" y="3060" font-family="monospace" font-size="13" fill="#222">
+                <tspan x="139" y="3060">return config</tspan>
+            </text>
+                
+            </g>
+            <g>
+                <rect x="87" y="3103.5" width="307.4" height="30" style="fill:#a5d6a7; stroke:#444; stroke-width:1"></rect>
+                    
+                <line x1="97" y1="3103.5" x2="97" y2="3133.5" style="fill:#a5d6a7; stroke:#444; stroke-width:1"></line>
+                <line x1="384.4" y1="3103.5" x2="384.4" y2="3133.5" style="fill:#a5d6a7; stroke:#444; stroke-width:1"></line>
+             
+                <title>SET_CONFIG_META(config, filepath)</title>
+            <text x="112" y="3123.5" font-family="monospace" font-size="13" fill="#222">
+                <tspan x="112" y="3123.5">SET_CONFIG_META(config, filepath)</tspan>
+            </text>
+                
+            </g>
+                <g>
+                   <rect x="124" y="3152" width="147" height="30" rx="3" ry="3" style="fill:#90caf9; stroke:#444; stroke-width:1"></rect>
+                   <title>SET_CONFIG_META</title>
+            <text x="139" y="3172" font-family="monospace" font-size="13" fill="#222">
+                <tspan x="139" y="3172">SET_CONFIG_META</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="124" y="3200.5" width="295.2" height="30" rx="3" ry="3" style="fill:#90caf9; stroke:#444; stroke-width:1"></rect>
+                   <title>config = extend(true, {*}, config)</title>
+            <text x="139" y="3220.5" font-family="monospace" font-size="13" fill="#222">
+                <tspan x="139" y="3220.5">config = extend(true, {*}, config)</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="124" y="3249" width="240.6" height="30" rx="2" ry="2" style="fill:#C5E1A5; stroke:#444; stroke-width:1"></rect>
+                   <title>setConfig(config, filepath)</title>
+            <text x="139" y="3269" font-family="monospace" font-size="13" fill="#222">
+                <tspan x="139" y="3269">setConfig(config, filepath)</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="124" y="3297.5" width="318.59999999999997" height="30" rx="2" ry="2" style="fill:#C5E1A5; stroke:#444; stroke-width:1"></rect>
+                   <title>extend(true, this.configMeta, config)</title>
+            <text x="139" y="3317.5" font-family="monospace" font-size="13" fill="#222">
+                <tspan x="139" y="3317.5">extend(true, this.configMeta, config)</tspan>
+            </text>
+                   
+                   
+                </g>
+            <g>
+                <rect x="50" y="3361" width="307.4" height="30" style="fill:#a5d6a7; stroke:#444; stroke-width:1"></rect>
+                    
+                <line x1="60" y1="3361" x2="60" y2="3391" style="fill:#a5d6a7; stroke:#444; stroke-width:1"></line>
+                <line x1="347.4" y1="3361" x2="347.4" y2="3391" style="fill:#a5d6a7; stroke:#444; stroke-width:1"></line>
+             
+                <title>function setConfig(obj, filepath)</title>
+            <text x="75" y="3381" font-family="monospace" font-size="13" fill="#222">
+                <tspan x="75" y="3381">function setConfig(obj, filepath)</tspan>
+            </text>
+                
+            </g><g>
+
+            <rect x="117" y="3444.5" width="247.2" height="30" rx="3" ry="3" style="fill:#b39ddb; stroke:#444; stroke-width:1"></rect>
+            <polygon points="87,3459.5 117,3429.5 147,3459.5 117,3489.5" style="fill:#b39ddb; stroke:#444; stroke-width:1"></polygon>
+                
+            <title> key of Object.keys(obj)</title>
+            <text x="162" y="3464.5" font-family="monospace" font-size="13" fill="#222">
+                <tspan x="162" y="3464.5"> key of Object.keys(obj)</tspan>
+            </text>
+            
+            <text x="105.3" y="3464.5" font-family="monospace" font-size="13" fill="#222">for</text>
+        </g>
+                <g>
+                   <rect x="137" y="3499.5" width="154.8" height="30" rx="2" ry="2" style="fill:#C5E1A5; stroke:#444; stroke-width:1"></rect>
+                   <title>Object.keys(obj)</title>
+            <text x="152" y="3519.5" font-family="monospace" font-size="13" fill="#222">
+                <tspan x="152" y="3519.5">Object.keys(obj)</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="137" y="3548" width="186" height="30" rx="3" ry="3" style="fill:#90caf9; stroke:#444; stroke-width:1"></rect>
+                   <title>const val = obj[key]</title>
+            <text x="152" y="3568" font-family="monospace" font-size="13" fill="#222">
+                <tspan x="152" y="3568">const val = obj[key]</tspan>
+            </text>
+                   
+                   
+                </g><g>
+            <rect x="167" y="3611.5" width="473.4" height="30" rx="3" ry="3" style="fill:#ce93d8; stroke:#444; stroke-width:1"></rect>                
+            <polygon points="137,3626.5 167,3596.5 197,3626.5 167,3656.5" style="fill:#ce93d8; stroke:#444; stroke-width:1"></polygon>
+            <title>(key === 'console' &amp;&amp; val &amp;&amp; typeof val.Console === 'function' &amp;&amp; val.Console === Console)</title>
+            <text x="212" y="3631.5" font-family="monospace" font-size="13" fill="#222">
+                <tspan x="212" y="3631.5">(key === 'console' &amp;&amp; val &amp;&amp; typeof val.Console ==...</tspan>
+            </text>
+            
+            <text x="159.2" y="3631.5" font-family="monospace" font-size="13" fill="#222">if</text> <text x="174.8" y="3658.45" font-family="monospace" font-size="13" fill="#222">+</text> 
+        </g>
+                <g>
+                   <rect x="187" y="3666.5" width="178.2" height="30" rx="3" ry="3" style="fill:#90caf9; stroke:#444; stroke-width:1"></rect>
+                   <title>obj[key] = filepath</title>
+            <text x="202" y="3686.5" font-family="monospace" font-size="13" fill="#222">
+                <tspan x="202" y="3686.5">obj[key] = filepath</tspan>
+            </text>
+                   
+                   
+                </g>
+            <g>
+                <rect x="187" y="3715" width="92.4" height="30" rx="2" ry="2" style="fill:#90caf9; stroke:#444; stroke-width:1"></rect>
+                
+                <line x1="279.4" y1="3725" x2="284.4" y2="3725" style="fill:#b39ddb; stroke:#444; stroke-width:1"></line>
+                
+                <line x1="279.4" y1="3735" x2="284.4" y2="3735" style="fill:#b39ddb; stroke:#444; stroke-width:1"></line>
+
+                <path d="M284.4, 3716 L300.4, 3730 L284.4, 3744 Z" fill="#b39ddb" stroke="#444" stroke-width="1"></path>
+                             
+                <title>continue</title>
+            <text x="202" y="3735" font-family="monospace" font-size="13" fill="#222">
+                <tspan x="202" y="3735">continue</tspan>
+            </text>
+                
+            </g><g>
+            <rect x="167" y="3780" width="473.4" height="30" rx="3" ry="3" style="fill:#ce93d8; stroke:#444; stroke-width:1"></rect>                
+            <polygon points="137,3795 167,3765 197,3795 167,3825" style="fill:#ce93d8; stroke:#444; stroke-width:1"></polygon>
+            <title>(val &amp;&amp; Object.getPrototypeOf(val) === Object.prototype &amp;&amp; Object.keys(val).length &gt; 0)</title>
+            <text x="212" y="3800" font-family="monospace" font-size="13" fill="#222">
+                <tspan x="212" y="3800">(val &amp;&amp; Object.getPrototypeOf(val) === Object.prot...</tspan>
+            </text>
+            
+            <text x="159.2" y="3800" font-family="monospace" font-size="13" fill="#222">if</text> <text x="174.8" y="3826.95" font-family="monospace" font-size="13" fill="#222">+</text> 
+        </g>
+                <g>
+                   <rect x="187" y="3835" width="154.8" height="30" rx="2" ry="2" style="fill:#C5E1A5; stroke:#444; stroke-width:1"></rect>
+                   <title>Object.keys(val)</title>
+            <text x="202" y="3855" font-family="monospace" font-size="13" fill="#222">
+                <tspan x="202" y="3855">Object.keys(val)</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="187" y="3883.5" width="217.2" height="30" rx="2" ry="2" style="fill:#C5E1A5; stroke:#444; stroke-width:1"></rect>
+                   <title>setConfig(val, filepath)</title>
+            <text x="202" y="3903.5" font-family="monospace" font-size="13" fill="#222">
+                <tspan x="202" y="3903.5">setConfig(val, filepath)</tspan>
+            </text>
+                   
+                   
+                </g>
+            <g>
+                <rect x="187" y="3932" width="92.4" height="30" rx="2" ry="2" style="fill:#90caf9; stroke:#444; stroke-width:1"></rect>
+                
+                <line x1="279.4" y1="3942" x2="284.4" y2="3942" style="fill:#b39ddb; stroke:#444; stroke-width:1"></line>
+                
+                <line x1="279.4" y1="3952" x2="284.4" y2="3952" style="fill:#b39ddb; stroke:#444; stroke-width:1"></line>
+
+                <path d="M284.4, 3933 L300.4, 3947 L284.4, 3961 Z" fill="#b39ddb" stroke="#444" stroke-width="1"></path>
+                             
+                <title>continue</title>
+            <text x="202" y="3952" font-family="monospace" font-size="13" fill="#222">
+                <tspan x="202" y="3952">continue</tspan>
+            </text>
+                
+            </g>
+                <g>
+                   <rect x="137" y="3982" width="178.2" height="30" rx="3" ry="3" style="fill:#90caf9; stroke:#444; stroke-width:1"></rect>
+                   <title>obj[key] = filepath</title>
+            <text x="152" y="4002" font-family="monospace" font-size="13" fill="#222">
+                <tspan x="152" y="4002">obj[key] = filepath</tspan>
+            </text>
+                   
+                   
+                </g>
+            <g>
+               <rect x="25" y="13.75" width="216.6" height="24" style="fill:#fff59d; stroke:#444; stroke-width:1"></rect>
+               <circle cx="25" cy="25" r="15" style="fill:#fff59d; stroke:#444; stroke-width:1"></circle>
+               <title>Program: source module</title>
+            <text x="55" y="30" font-family="monospace" font-size="13" fill="#222">
+                <tspan x="55" y="30">Program: source module</tspan>
+            </text>
+            </g>
+            <g>
+               <path d="M25, 40 L25 76 Q25 80
+                29 80
+                L42 80 " style="fill:none; stroke:#444; stroke-width:1"></path>
+               <path d="M42, 77 L50, 80 L42, 83 Z" fill="#333"></path>
+            </g>
+            <g>
+               <path d="M25, 40 L25 124.5 Q25 128.5
+                29 128.5
+                L42 128.5 " style="fill:none; stroke:#444; stroke-width:1"></path>
+               <path d="M42, 125.5 L50, 128.5 L42, 131.5 Z" fill="#333"></path>
+            </g>
+            <g>
+               <path d="M25, 40 L25 173 Q25 177
+                29 177
+                L42 177 " style="fill:none; stroke:#444; stroke-width:1"></path>
+               <path d="M42, 174 L50, 177 L42, 180 Z" fill="#333"></path>
+            </g>
+            <g>
+               <path d="M25, 40 L25 221.5 Q25 225.5
+                29 225.5
+                L42 225.5 " style="fill:none; stroke:#444; stroke-width:1"></path>
+               <path d="M42, 222.5 L50, 225.5 L42, 228.5 Z" fill="#333"></path>
+            </g>
+            <g>
+               <path d="M25, 40 L25 270 Q25 274
+                29 274
+                L42 274 " style="fill:none; stroke:#444; stroke-width:1"></path>
+               <path d="M42, 271 L50, 274 L42, 277 Z" fill="#333"></path>
+            </g>
+            <g>
+               <path d="M68.5, 289 L68.5 318.5 Q68.5 322.5
+                72.5 322.5
+                L87 322.5 " style="fill:none; stroke:#444; stroke-width:1"></path>
+               false
+            </g>
+            <g>
+               <path d="M25, 40 L25 367 Q25 371
+                29 371
+                L42 371 " style="fill:none; stroke:#444; stroke-width:1"></path>
+               <path d="M42, 368 L50, 371 L42, 374 Z" fill="#333"></path>
+            </g>
+            <g>
+               <path d="M25, 40 L25 415.5 Q25 419.5
+                29 419.5
+                L42 419.5 " style="fill:none; stroke:#444; stroke-width:1"></path>
+               <path d="M42, 416.5 L50, 419.5 L42, 422.5 Z" fill="#333"></path>
+            </g>
+            <g>
+               <path d="M68.5, 434.5 L68.5 479 Q68.5 483
+                72.5 483
+                L87 483 " style="fill:none; stroke:#444; stroke-width:1"></path>
+               false
+            </g>
+            <g>
+               <path d="M105.5, 498 L105.5 527.5 Q105.5 531.5
+                109.5 531.5
+                L116 531.5 " style="fill:none; stroke:#444; stroke-width:1"></path>
+               <path d="M116, 528.5 L124, 531.5 L116, 534.5 Z" fill="#333"></path>
+            </g>
+            <g>
+               <path d="M105.5, 498 L105.5 576 Q105.5 580
+                109.5 580
+                L116 580 " style="fill:none; stroke:#444; stroke-width:1"></path>
+               <path d="M116, 577 L124, 580 L116, 583 Z" fill="#333"></path>
+            </g>
+            <g>
+               <path d="M105.5, 498 L105.5 624.5 Q105.5 628.5
+                109.5 628.5
+                L116 628.5 " style="fill:none; stroke:#444; stroke-width:1"></path>
+               <path d="M116, 625.5 L124, 628.5 L116, 631.5 Z" fill="#333"></path>
+            </g>
+            <g>
+               <path d="M105.5, 498 L105.5 673 Q105.5 677
+                109.5 677
+                L116 677 " style="fill:none; stroke:#444; stroke-width:1"></path>
+               <path d="M116, 674 L124, 677 L116, 680 Z" fill="#333"></path>
+            </g>
+            <g>
+               <path d="M105.5, 498 L105.5 721.5 Q105.5 725.5
+                109.5 725.5
+                L116 725.5 " style="fill:none; stroke:#444; stroke-width:1"></path>
+               <path d="M116, 722.5 L124, 725.5 L116, 728.5 Z" fill="#333"></path>
+            </g>
+            <g>
+               <path d="M105.5, 498 L105.5 805 Q105.5 809
+                109.5 809
+                L116 809 " style="fill:none; stroke:#444; stroke-width:1"></path>
+               <path d="M116, 806 L124, 809 L116, 812 Z" fill="#333"></path>
+            </g>
+            <g>
+               <path d="M154, 839 L154 860 Q154 864
+                158 864
+                L166 864 " style="fill:none; stroke:#444; stroke-width:1"></path>
+               <path d="M166, 861 L174, 864 L166, 867 Z" fill="#333"></path>
+            </g>
+            <g>
+               <path d="M154, 839 L154 943.5 Q154 947.5
+                158 947.5
+                L166 947.5 " style="fill:none; stroke:#444; stroke-width:1"></path>
+               <path d="M166, 944.5 L174, 947.5 L166, 950.5 Z" fill="#333"></path>
+            </g>
+            <g>
+               <path d="M204, 977.5 L204 998.5 Q204 1002.5
+                208 1002.5
+                L216 1002.5 " style="fill:none; stroke:#444; stroke-width:1"></path>
+               <path d="M216, 999.5 L224, 1002.5 L216, 1005.5 Z" fill="#333"></path>
+            </g>
+            <g>
+               <path d="M204, 977.5 L204 1047 Q204 1051
+                208 1051
+                L216 1051 " style="fill:none; stroke:#444; stroke-width:1"></path>
+               <path d="M216, 1048 L224, 1051 L216, 1054 Z" fill="#333"></path>
+            </g>
+            <g>
+               <path d="M204, 977.5 L204 1095.5 Q204 1099.5
+                208 1099.5
+                L216 1099.5 " style="fill:none; stroke:#444; stroke-width:1"></path>
+               <path d="M216, 1096.5 L224, 1099.5 L216, 1102.5 Z" fill="#333"></path>
+            </g>
+            <g>
+               <path d="M242.5, 1114.5 L242.5 1159 Q242.5 1163
+                246.5 1163
+                L253 1163 " style="fill:none; stroke:#444; stroke-width:1"></path>
+               <path d="M253, 1160 L261, 1163 L253, 1166 Z" fill="#333"></path>
+            </g>
+            <g>
+               <path d="M291, 1193 L291 1214 Q291 1218
+                295 1218
+                L303 1218 " style="fill:none; stroke:#444; stroke-width:1"></path>
+               <path d="M303, 1215 L311, 1218 L303, 1221 Z" fill="#333"></path>
+            </g>
+            <g>
+               <path d="M405.6, 1163 L447.2 1163  Q451.2 1163
+                451.2 1167
+                L451.2 1210 Q451.2 1218
+                455.2 1218
+                L463.2 1218 " style="fill:none; stroke:#444; stroke-width:1"></path>
+               <path d="M463.2, 1215 L471.2, 1218 L463.2, 1221 Z" fill="#333"></path>
+            </g>
+            <g>
+               <path d="M204, 977.5 L204 1279 Q204 1283
+                208 1283
+                L216 1283 " style="fill:none; stroke:#444; stroke-width:1"></path>
+               <path d="M216, 1280 L224, 1283 L216, 1286 Z" fill="#333"></path>
+            </g>
+            <g>
+               <path d="M254, 1313 L254 1334 Q254 1338
+                258 1338
+                L266 1338 " style="fill:none; stroke:#444; stroke-width:1"></path>
+               <path d="M266, 1335 L274, 1338 L266, 1341 Z" fill="#333"></path>
+            </g>
+            <g>
+               <path d="M204, 977.5 L204 1384 Q204 1388
+                208 1388
+                L216 1388 " style="fill:none; stroke:#444; stroke-width:1"></path>
+               <path d="M216, 1385 L224, 1388 L216, 1391 Z" fill="#333"></path>
+            </g>
+            <g>
+               <path d="M204, 977.5 L204 1432.5 Q204 1436.5
+                208 1436.5
+                L216 1436.5 " style="fill:none; stroke:#444; stroke-width:1"></path>
+               <path d="M216, 1433.5 L224, 1436.5 L216, 1439.5 Z" fill="#333"></path>
+            </g>
+            <g>
+               <path d="M472.4, 1436.5 L683.4 1436.5  Q687.4 1436.5
+                687.4 1432.5
+                L687.4 905.5 Q687.4 897.5
+                683.4 897.5
+                L212 897.5  Q204 897.5
+                204 901.5
+                L204 909.5" style="fill:none; stroke:#444; stroke-width:1"></path>
+               <path d="M201, 909.5 L204, 917.5 L207, 909.5 Z" fill="#333"></path>
+            </g>
+            <g>
+               <path d="M472.4, 1436.5 L683.4 1436.5  Q687.4 1436.5
+                687.4 1432.5
+                L687.4 767 Q687.4 759
+                683.4 759
+                L162 759  Q154 759
+                154 763
+                L154 771" style="fill:none; stroke:#444; stroke-width:1"></path>
+               <path d="M151, 771 L154, 779 L157, 771 Z" fill="#333"></path>
+            </g>
+            <g>
+               <path d="M105.5, 498 L105.5 1481 Q105.5 1485
+                109.5 1485
+                L116 1485 " style="fill:none; stroke:#444; stroke-width:1"></path>
+               <path d="M116, 1482 L124, 1485 L116, 1488 Z" fill="#333"></path>
+            </g>
+            <g>
+               <path d="M142.5, 1500 L142.5 1529.5 Q142.5 1533.5
+                146.5 1533.5
+                L153 1533.5 " style="fill:none; stroke:#444; stroke-width:1"></path>
+               <path d="M153, 1530.5 L161, 1533.5 L153, 1536.5 Z" fill="#333"></path>
+            </g>
+            <g>
+               <path d="M105.5, 498 L105.5 1578 Q105.5 1582
+                109.5 1582
+                L116 1582 " style="fill:none; stroke:#444; stroke-width:1"></path>
+               <path d="M116, 1579 L124, 1582 L116, 1585 Z" fill="#333"></path>
+            </g>
+            <g>
+               <path d="M142.5, 1597 L142.5 1626.5 Q142.5 1630.5
+                146.5 1630.5
+                L153 1630.5 " style="fill:none; stroke:#444; stroke-width:1"></path>
+               <path d="M153, 1627.5 L161, 1630.5 L153, 1633.5 Z" fill="#333"></path>
+            </g>
+            <g>
+               <path d="M105.5, 498 L105.5 1675 Q105.5 1679
+                109.5 1679
+                L116 1679 " style="fill:none; stroke:#444; stroke-width:1"></path>
+               <path d="M116, 1676 L124, 1679 L116, 1682 Z" fill="#333"></path>
+            </g>
+            <g>
+               <path d="M105.5, 498 L105.5 1723.5 Q105.5 1727.5
+                109.5 1727.5
+                L116 1727.5 " style="fill:none; stroke:#444; stroke-width:1"></path>
+               <path d="M116, 1724.5 L124, 1727.5 L116, 1730.5 Z" fill="#333"></path>
+            </g>
+            <g>
+               <path d="M68.5, 434.5 L68.5 1787 Q68.5 1791
+                72.5 1791
+                L87 1791 " style="fill:none; stroke:#444; stroke-width:1"></path>
+               false
+            </g>
+            <g>
+               <path d="M105.5, 1806 L105.5 1835.5 Q105.5 1839.5
+                109.5 1839.5
+                L116 1839.5 " style="fill:none; stroke:#444; stroke-width:1"></path>
+               <path d="M116, 1836.5 L124, 1839.5 L116, 1842.5 Z" fill="#333"></path>
+            </g>
+            <g>
+               <path d="M105.5, 1806 L105.5 1884 Q105.5 1888
+                109.5 1888
+                L116 1888 " style="fill:none; stroke:#444; stroke-width:1"></path>
+               <path d="M116, 1885 L124, 1888 L116, 1891 Z" fill="#333"></path>
+            </g>
+            <g>
+               <path d="M105.5, 1806 L105.5 1932.5 Q105.5 1936.5
+                109.5 1936.5
+                L116 1936.5 " style="fill:none; stroke:#444; stroke-width:1"></path>
+               <path d="M116, 1933.5 L124, 1936.5 L116, 1939.5 Z" fill="#333"></path>
+            </g>
+            <g>
+               <path d="M105.5, 1806 L105.5 2016 Q105.5 2020
+                109.5 2020
+                L116 2020 " style="fill:none; stroke:#444; stroke-width:1"></path>
+               <path d="M116, 2017 L124, 2020 L116, 2023 Z" fill="#333"></path>
+            </g>
+            <g>
+               <path d="M154, 2050 L154 2071 Q154 2075
+                158 2075
+                L166 2075 " style="fill:none; stroke:#444; stroke-width:1"></path>
+               <path d="M166, 2072 L174, 2075 L166, 2078 Z" fill="#333"></path>
+            </g>
+            <g>
+               <path d="M154, 2050 L154 2119.5 Q154 2123.5
+                158 2123.5
+                L166 2123.5 " style="fill:none; stroke:#444; stroke-width:1"></path>
+               <path d="M166, 2120.5 L174, 2123.5 L166, 2126.5 Z" fill="#333"></path>
+            </g>
+            <g>
+               <path d="M422.4, 2123.5 L633.4 2123.5  Q637.4 2123.5
+                637.4 2119.5
+                L637.4 1978 Q637.4 1970
+                633.4 1970
+                L162 1970  Q154 1970
+                154 1974
+                L154 1982" style="fill:none; stroke:#444; stroke-width:1"></path>
+               <path d="M151, 1982 L154, 1990 L157, 1982 Z" fill="#333"></path>
+            </g>
+            <g>
+               <path d="M105.5, 1806 L105.5 2168 Q105.5 2172
+                109.5 2172
+                L116 2172 " style="fill:none; stroke:#444; stroke-width:1"></path>
+               <path d="M116, 2169 L124, 2172 L116, 2175 Z" fill="#333"></path>
+            </g>
+            <g>
+               <path d="M68.5, 434.5 L68.5 2231.5 Q68.5 2235.5
+                72.5 2235.5
+                L87 2235.5 " style="fill:none; stroke:#444; stroke-width:1"></path>
+               false
+            </g>
+            <g>
+               <path d="M105.5, 2250.5 L105.5 2280 Q105.5 2284
+                109.5 2284
+                L116 2284 " style="fill:none; stroke:#444; stroke-width:1"></path>
+               <path d="M116, 2281 L124, 2284 L116, 2287 Z" fill="#333"></path>
+            </g>
+            <g>
+               <path d="M105.5, 2250.5 L105.5 2328.5 Q105.5 2332.5
+                109.5 2332.5
+                L116 2332.5 " style="fill:none; stroke:#444; stroke-width:1"></path>
+               <path d="M116, 2329.5 L124, 2332.5 L116, 2335.5 Z" fill="#333"></path>
+            </g>
+            <g>
+               <path d="M105.5, 2250.5 L105.5 2377 Q105.5 2381
+                109.5 2381
+                L116 2381 " style="fill:none; stroke:#444; stroke-width:1"></path>
+               <path d="M116, 2378 L124, 2381 L116, 2384 Z" fill="#333"></path>
+            </g>
+            <g>
+               <path d="M105.5, 2250.5 L105.5 2425.5 Q105.5 2429.5
+                109.5 2429.5
+                L116 2429.5 " style="fill:none; stroke:#444; stroke-width:1"></path>
+               <path d="M116, 2426.5 L124, 2429.5 L116, 2432.5 Z" fill="#333"></path>
+            </g>
+            <g>
+               <path d="M105.5, 2250.5 L105.5 2489 Q105.5 2493
+                109.5 2493
+                L116 2493 " style="fill:none; stroke:#444; stroke-width:1"></path>
+               <path d="M116, 2490 L124, 2493 L116, 2496 Z" fill="#333"></path>
+            </g>
+            <g>
+               <path d="M154, 2523 L154 2544 Q154 2548
+                158 2548
+                L166 2548 " style="fill:none; stroke:#444; stroke-width:1"></path>
+               <path d="M166, 2545 L174, 2548 L166, 2551 Z" fill="#333"></path>
+            </g>
+            <g>
+               <path d="M105.5, 2250.5 L105.5 2594 Q105.5 2598
+                109.5 2598
+                L116 2598 " style="fill:none; stroke:#444; stroke-width:1"></path>
+               <path d="M116, 2595 L124, 2598 L116, 2601 Z" fill="#333"></path>
+            </g>
+            <g>
+               <path d="M105.5, 2250.5 L105.5 2657.5 Q105.5 2661.5
+                109.5 2661.5
+                L116 2661.5 " style="fill:none; stroke:#444; stroke-width:1"></path>
+               <path d="M116, 2658.5 L124, 2661.5 L116, 2664.5 Z" fill="#333"></path>
+            </g>
+            <g>
+               <path d="M154, 2691.5 L154 2712.5 Q154 2716.5
+                158 2716.5
+                L166 2716.5 " style="fill:none; stroke:#444; stroke-width:1"></path>
+               <path d="M166, 2713.5 L174, 2716.5 L166, 2719.5 Z" fill="#333"></path>
+            </g>
+            <g>
+               <path d="M105.5, 2250.5 L105.5 2777.5 Q105.5 2781.5
+                109.5 2781.5
+                L116 2781.5 " style="fill:none; stroke:#444; stroke-width:1"></path>
+               <path d="M116, 2778.5 L124, 2781.5 L116, 2784.5 Z" fill="#333"></path>
+            </g>
+            <g>
+               <path d="M154, 2811.5 L154 2832.5 Q154 2836.5
+                158 2836.5
+                L166 2836.5 " style="fill:none; stroke:#444; stroke-width:1"></path>
+               <path d="M166, 2833.5 L174, 2836.5 L166, 2839.5 Z" fill="#333"></path>
+            </g>
+            <g>
+               <path d="M105.5, 2250.5 L105.5 2897.5 Q105.5 2901.5
+                109.5 2901.5
+                L116 2901.5 " style="fill:none; stroke:#444; stroke-width:1"></path>
+               <path d="M116, 2898.5 L124, 2901.5 L116, 2904.5 Z" fill="#333"></path>
+            </g>
+            <g>
+               <path d="M154, 2931.5 L154 2952.5 Q154 2956.5
+                158 2956.5
+                L166 2956.5 " style="fill:none; stroke:#444; stroke-width:1"></path>
+               <path d="M166, 2953.5 L174, 2956.5 L166, 2959.5 Z" fill="#333"></path>
+            </g>
+            <g>
+               <path d="M105.5, 2250.5 L105.5 3002.5 Q105.5 3006.5
+                109.5 3006.5
+                L116 3006.5 " style="fill:none; stroke:#444; stroke-width:1"></path>
+               <path d="M116, 3003.5 L124, 3006.5 L116, 3009.5 Z" fill="#333"></path>
+            </g>
+            <g>
+               <path d="M105.5, 2250.5 L105.5 3051 Q105.5 3055
+                109.5 3055
+                L116 3055 " style="fill:none; stroke:#444; stroke-width:1"></path>
+               <path d="M116, 3052 L124, 3055 L116, 3058 Z" fill="#333"></path>
+            </g>
+            <g>
+               <path d="M68.5, 434.5 L68.5 3114.5 Q68.5 3118.5
+                72.5 3118.5
+                L87 3118.5 " style="fill:none; stroke:#444; stroke-width:1"></path>
+               false
+            </g>
+            <g>
+               <path d="M105.5, 3133.5 L105.5 3163 Q105.5 3167
+                109.5 3167
+                L116 3167 " style="fill:none; stroke:#444; stroke-width:1"></path>
+               <path d="M116, 3164 L124, 3167 L116, 3170 Z" fill="#333"></path>
+            </g>
+            <g>
+               <path d="M105.5, 3133.5 L105.5 3211.5 Q105.5 3215.5
+                109.5 3215.5
+                L116 3215.5 " style="fill:none; stroke:#444; stroke-width:1"></path>
+               <path d="M116, 3212.5 L124, 3215.5 L116, 3218.5 Z" fill="#333"></path>
+            </g>
+            <g>
+               <path d="M105.5, 3133.5 L105.5 3260 Q105.5 3264
+                109.5 3264
+                L116 3264 " style="fill:none; stroke:#444; stroke-width:1"></path>
+               <path d="M116, 3261 L124, 3264 L116, 3267 Z" fill="#333"></path>
+            </g>
+            <g>
+               <path d="M105.5, 3133.5 L105.5 3308.5 Q105.5 3312.5
+                109.5 3312.5
+                L116 3312.5 " style="fill:none; stroke:#444; stroke-width:1"></path>
+               <path d="M116, 3309.5 L124, 3312.5 L116, 3315.5 Z" fill="#333"></path>
+            </g>
+            <g>
+               <path d="M25, 40 L25 3372 Q25 3376
+                29 3376
+                L42 3376 " style="fill:none; stroke:#444; stroke-width:1"></path>
+               <path d="M42, 3373 L50, 3376 L42, 3379 Z" fill="#333"></path>
+            </g>
+            <g>
+               <path d="M68.5, 3391 L68.5 3455.5 Q68.5 3459.5
+                72.5 3459.5
+                L79 3459.5 " style="fill:none; stroke:#444; stroke-width:1"></path>
+               <path d="M79, 3456.5 L87, 3459.5 L79, 3462.5 Z" fill="#333"></path>
+            </g>
+            <g>
+               <path d="M117, 3489.5 L117 3510.5 Q117 3514.5
+                121 3514.5
+                L129 3514.5 " style="fill:none; stroke:#444; stroke-width:1"></path>
+               <path d="M129, 3511.5 L137, 3514.5 L129, 3517.5 Z" fill="#333"></path>
+            </g>
+            <g>
+               <path d="M117, 3489.5 L117 3559 Q117 3563
+                121 3563
+                L129 3563 " style="fill:none; stroke:#444; stroke-width:1"></path>
+               <path d="M129, 3560 L137, 3563 L129, 3566 Z" fill="#333"></path>
+            </g>
+            <g>
+               <path d="M117, 3489.5 L117 3622.5 Q117 3626.5
+                121 3626.5
+                L129 3626.5 " style="fill:none; stroke:#444; stroke-width:1"></path>
+               <path d="M129, 3623.5 L137, 3626.5 L129, 3629.5 Z" fill="#333"></path>
+            </g>
+            <g>
+               <path d="M167, 3656.5 L167 3677.5 Q167 3681.5
+                171 3681.5
+                L179 3681.5 " style="fill:none; stroke:#444; stroke-width:1"></path>
+               <path d="M179, 3678.5 L187, 3681.5 L179, 3684.5 Z" fill="#333"></path>
+            </g>
+            <g>
+               <path d="M167, 3656.5 L167 3726 Q167 3730
+                171 3730
+                L179 3730 " style="fill:none; stroke:#444; stroke-width:1"></path>
+               <path d="M179, 3727 L187, 3730 L179, 3733 Z" fill="#333"></path>
+            </g>
+            <g>
+               <path d="M117, 3489.5 L117 3791 Q117 3795
+                121 3795
+                L129 3795 " style="fill:none; stroke:#444; stroke-width:1"></path>
+               <path d="M129, 3792 L137, 3795 L129, 3798 Z" fill="#333"></path>
+            </g>
+            <g>
+               <path d="M167, 3825 L167 3846 Q167 3850
+                171 3850
+                L179 3850 " style="fill:none; stroke:#444; stroke-width:1"></path>
+               <path d="M179, 3847 L187, 3850 L179, 3853 Z" fill="#333"></path>
+            </g>
+            <g>
+               <path d="M167, 3825 L167 3894.5 Q167 3898.5
+                171 3898.5
+                L179 3898.5 " style="fill:none; stroke:#444; stroke-width:1"></path>
+               <path d="M179, 3895.5 L187, 3898.5 L179, 3901.5 Z" fill="#333"></path>
+            </g>
+            <g>
+               <path d="M167, 3825 L167 3943 Q167 3947
+                171 3947
+                L179 3947 " style="fill:none; stroke:#444; stroke-width:1"></path>
+               <path d="M179, 3944 L187, 3947 L179, 3950 Z" fill="#333"></path>
+            </g>
+            <g>
+               <path d="M117, 3489.5 L117 3993 Q117 3997
+                121 3997
+                L129 3997 " style="fill:none; stroke:#444; stroke-width:1"></path>
+               <path d="M129, 3994 L137, 3997 L129, 4000 Z" fill="#333"></path>
+            </g>
+            <g>
+               <path d="M315.2, 3997 L656.4 3997  Q660.4 3997
+                660.4 3993
+                L660.4 3417.5 Q660.4 3409.5
+                656.4 3409.5
+                L125 3409.5  Q117 3409.5
+                117 3413.5
+                L117 3421.5" style="fill:none; stroke:#444; stroke-width:1"></path>
+               <path d="M114, 3421.5 L117, 3429.5 L120, 3421.5 Z" fill="#333"></path>
+            </g>
+            </svg>

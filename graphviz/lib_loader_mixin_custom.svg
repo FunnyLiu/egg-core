@@ -1,0 +1,541 @@
+﻿
+                <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1609" height="1696" shape-rendering="optimizeSpeed">
+                
+                <g>
+                   <rect x="50" y="65" width="279.6" height="30" rx="3" ry="3" style="fill:#90caf9; stroke:#444; stroke-width:1"></rect>
+                   <title>const is = require('is-type-of')</title>
+            <text x="65" y="85" font-family="monospace" font-size="13" fill="#222">
+                <tspan x="65" y="85">const is = require('is-type-of')</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="50" y="113.5" width="248.4" height="30" rx="3" ry="3" style="fill:#90caf9; stroke:#444; stroke-width:1"></rect>
+                   <title>const path = require('path')</title>
+            <text x="65" y="133.5" font-family="monospace" font-size="13" fill="#222">
+                <tspan x="65" y="133.5">const path = require('path')</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="50" y="162" width="443.4" height="30" rx="3" ry="3" style="fill:#90caf9; stroke:#444; stroke-width:1"></rect>
+                   <title>const LOAD_BOOT_HOOK = Symbol('Loader#loadBootHook')</title>
+            <text x="65" y="182" font-family="monospace" font-size="13" fill="#222">
+                <tspan x="65" y="182">const LOAD_BOOT_HOOK = Symbol('Loader#loadBootHook...</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="50" y="210.5" width="186" height="30" rx="3" ry="3" style="fill:#90caf9; stroke:#444; stroke-width:1"></rect>
+                   <title>module.exports = {*}</title>
+            <text x="65" y="230.5" font-family="monospace" font-size="13" fill="#222">
+                <tspan x="65" y="230.5">module.exports = {*}</tspan>
+            </text>
+                   
+                   
+                </g>
+            <g>
+                <rect x="87" y="274" width="167" height="30" style="fill:#a5d6a7; stroke:#444; stroke-width:1"></rect>
+                    
+                <line x1="97" y1="274" x2="97" y2="304" style="fill:#a5d6a7; stroke:#444; stroke-width:1"></line>
+                <line x1="244" y1="274" x2="244" y2="304" style="fill:#a5d6a7; stroke:#444; stroke-width:1"></line>
+             
+                <title>loadCustomApp()</title>
+            <text x="112" y="294" font-family="monospace" font-size="13" fill="#222">
+                <tspan x="112" y="294">loadCustomApp()</tspan>
+            </text>
+                
+            </g>
+                <g>
+                   <rect x="124" y="322.5" width="131.39999999999998" height="30" rx="3" ry="3" style="fill:#90caf9; stroke:#444; stroke-width:1"></rect>
+                   <title>loadCustomApp</title>
+            <text x="139" y="342.5" font-family="monospace" font-size="13" fill="#222">
+                <tspan x="139" y="342.5">loadCustomApp</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="124" y="371" width="240.6" height="30" rx="2" ry="2" style="fill:#C5E1A5; stroke:#444; stroke-width:1"></rect>
+                   <title>this[LOAD_BOOT_HOOK]('app')</title>
+            <text x="139" y="391" font-family="monospace" font-size="13" fill="#222">
+                <tspan x="139" y="391">this[LOAD_BOOT_HOOK]('app')</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="124" y="419.5" width="326.4" height="30" rx="2" ry="2" style="fill:#C5E1A5; stroke:#444; stroke-width:1"></rect>
+                   <title>this.lifecycle.triggerConfigWillLoad()</title>
+            <text x="139" y="439.5" font-family="monospace" font-size="13" fill="#222">
+                <tspan x="139" y="439.5">this.lifecycle.triggerConfigWillLoad()</tspan>
+            </text>
+                   
+                   
+                </g>
+            <g>
+                <rect x="87" y="483" width="182.6" height="30" style="fill:#a5d6a7; stroke:#444; stroke-width:1"></rect>
+                    
+                <line x1="97" y1="483" x2="97" y2="513" style="fill:#a5d6a7; stroke:#444; stroke-width:1"></line>
+                <line x1="259.6" y1="483" x2="259.6" y2="513" style="fill:#a5d6a7; stroke:#444; stroke-width:1"></line>
+             
+                <title>loadCustomAgent()</title>
+            <text x="112" y="503" font-family="monospace" font-size="13" fill="#222">
+                <tspan x="112" y="503">loadCustomAgent()</tspan>
+            </text>
+                
+            </g>
+                <g>
+                   <rect x="124" y="531.5" width="147" height="30" rx="3" ry="3" style="fill:#90caf9; stroke:#444; stroke-width:1"></rect>
+                   <title>loadCustomAgent</title>
+            <text x="139" y="551.5" font-family="monospace" font-size="13" fill="#222">
+                <tspan x="139" y="551.5">loadCustomAgent</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="124" y="580" width="256.2" height="30" rx="2" ry="2" style="fill:#C5E1A5; stroke:#444; stroke-width:1"></rect>
+                   <title>this[LOAD_BOOT_HOOK]('agent')</title>
+            <text x="139" y="600" font-family="monospace" font-size="13" fill="#222">
+                <tspan x="139" y="600">this[LOAD_BOOT_HOOK]('agent')</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="124" y="628.5" width="326.4" height="30" rx="2" ry="2" style="fill:#C5E1A5; stroke:#444; stroke-width:1"></rect>
+                   <title>this.lifecycle.triggerConfigWillLoad()</title>
+            <text x="139" y="648.5" font-family="monospace" font-size="13" fill="#222">
+                <tspan x="139" y="648.5">this.lifecycle.triggerConfigWillLoad()</tspan>
+            </text>
+                   
+                   
+                </g>
+            <g>
+                <rect x="87" y="692" width="159.2" height="30" style="fill:#a5d6a7; stroke:#444; stroke-width:1"></rect>
+                    
+                <line x1="97" y1="692" x2="97" y2="722" style="fill:#a5d6a7; stroke:#444; stroke-width:1"></line>
+                <line x1="236.2" y1="692" x2="236.2" y2="722" style="fill:#a5d6a7; stroke:#444; stroke-width:1"></line>
+             
+                <title>loadBootHook()</title>
+            <text x="112" y="712" font-family="monospace" font-size="13" fill="#222">
+                <tspan x="112" y="712">loadBootHook()</tspan>
+            </text>
+                
+            </g>
+                <g>
+                   <rect x="124" y="740.5" width="123.6" height="30" rx="3" ry="3" style="fill:#90caf9; stroke:#444; stroke-width:1"></rect>
+                   <title>loadBootHook</title>
+            <text x="139" y="760.5" font-family="monospace" font-size="13" fill="#222">
+                <tspan x="139" y="760.5">loadBootHook</tspan>
+            </text>
+                   
+                   
+                </g>
+            <g>
+                <rect x="87" y="804" width="237.2" height="30" style="fill:#a5d6a7; stroke:#444; stroke-width:1"></rect>
+                    
+                <line x1="97" y1="804" x2="97" y2="834" style="fill:#a5d6a7; stroke:#444; stroke-width:1"></line>
+                <line x1="314.2" y1="804" x2="314.2" y2="834" style="fill:#a5d6a7; stroke:#444; stroke-width:1"></line>
+             
+                <title>LOAD_BOOT_HOOK(fileName)</title>
+            <text x="112" y="824" font-family="monospace" font-size="13" fill="#222">
+                <tspan x="112" y="824">LOAD_BOOT_HOOK(fileName)</tspan>
+            </text>
+                
+            </g>
+                <g>
+                   <rect x="124" y="852.5" width="139.2" height="30" rx="3" ry="3" style="fill:#90caf9; stroke:#444; stroke-width:1"></rect>
+                   <title>LOAD_BOOT_HOOK</title>
+            <text x="139" y="872.5" font-family="monospace" font-size="13" fill="#222">
+                <tspan x="139" y="872.5">LOAD_BOOT_HOOK</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="124" y="901" width="92.4" height="30" rx="3" ry="3" style="fill:#90caf9; stroke:#444; stroke-width:1"></rect>
+                   <title>fileName</title>
+            <text x="139" y="921" font-family="monospace" font-size="13" fill="#222">
+                <tspan x="139" y="921">fileName</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="124" y="949.5" width="342" height="30" rx="2" ry="2" style="fill:#C5E1A5; stroke:#444; stroke-width:1"></rect>
+                   <title>this.timing.start(`Load ${fileName}.js`)</title>
+            <text x="139" y="969.5" font-family="monospace" font-size="13" fill="#222">
+                <tspan x="139" y="969.5">this.timing.start(`Load ${fileName}.js`)</tspan>
+            </text>
+                   
+                   
+                </g><g>
+
+            <rect x="154" y="1033" width="278.4" height="30" rx="3" ry="3" style="fill:#b39ddb; stroke:#444; stroke-width:1"></rect>
+            <polygon points="124,1048 154,1018 184,1048 154,1078" style="fill:#b39ddb; stroke:#444; stroke-width:1"></polygon>
+                
+            <title> unit of this.getLoadUnits()</title>
+            <text x="199" y="1053" font-family="monospace" font-size="13" fill="#222">
+                <tspan x="199" y="1053"> unit of this.getLoadUnits()</tspan>
+            </text>
+            
+            <text x="142.3" y="1053" font-family="monospace" font-size="13" fill="#222">for</text>
+        </g>
+                <g>
+                   <rect x="174" y="1088" width="178.2" height="30" rx="2" ry="2" style="fill:#C5E1A5; stroke:#444; stroke-width:1"></rect>
+                   <title>this.getLoadUnits()</title>
+            <text x="189" y="1108" font-family="monospace" font-size="13" fill="#222">
+                <tspan x="189" y="1108">this.getLoadUnits()</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="174" y="1136.5" width="443.4" height="30" rx="3" ry="3" style="fill:#90caf9; stroke:#444; stroke-width:1"></rect>
+                   <title>const bootFilePath = this.resolveModule(path.join(unit.path, fileName))</title>
+            <text x="189" y="1156.5" font-family="monospace" font-size="13" fill="#222">
+                <tspan x="189" y="1156.5">const bootFilePath = this.resolveModule(path.join(...</tspan>
+            </text>
+                   
+                   
+                </g><g>
+            <rect x="204" y="1200" width="177" height="30" rx="3" ry="3" style="fill:#ce93d8; stroke:#444; stroke-width:1"></rect>                
+            <polygon points="174,1215 204,1185 234,1215 204,1245" style="fill:#ce93d8; stroke:#444; stroke-width:1"></polygon>
+            <title>(!bootFilePath)</title>
+            <text x="249" y="1220" font-family="monospace" font-size="13" fill="#222">
+                <tspan x="249" y="1220">(!bootFilePath)</tspan>
+            </text>
+            
+            <text x="196.2" y="1220" font-family="monospace" font-size="13" fill="#222">if</text> <text x="211.8" y="1246.95" font-family="monospace" font-size="13" fill="#222">+</text> 
+        </g>
+            <g>
+                <rect x="224" y="1255" width="92.4" height="30" rx="2" ry="2" style="fill:#90caf9; stroke:#444; stroke-width:1"></rect>
+                
+                <line x1="316.4" y1="1265" x2="321.4" y2="1265" style="fill:#b39ddb; stroke:#444; stroke-width:1"></line>
+                
+                <line x1="316.4" y1="1275" x2="321.4" y2="1275" style="fill:#b39ddb; stroke:#444; stroke-width:1"></line>
+
+                <path d="M321.4, 1256 L337.4, 1270 L321.4, 1284 Z" fill="#b39ddb" stroke="#444" stroke-width="1"></path>
+                             
+                <title>continue</title>
+            <text x="239" y="1275" font-family="monospace" font-size="13" fill="#222">
+                <tspan x="239" y="1275">continue</tspan>
+            </text>
+                
+            </g>
+                <g>
+                   <rect x="174" y="1305" width="396.59999999999997" height="30" rx="3" ry="3" style="fill:#90caf9; stroke:#444; stroke-width:1"></rect>
+                   <title>const bootHook = this.requireFile(bootFilePath)</title>
+            <text x="189" y="1325" font-family="monospace" font-size="13" fill="#222">
+                <tspan x="189" y="1325">const bootHook = this.requireFile(bootFilePath)</tspan>
+            </text>
+                   
+                   
+                </g><g>
+            <rect x="204" y="1368.5" width="216" height="30" rx="3" ry="3" style="fill:#ce93d8; stroke:#444; stroke-width:1"></rect>                
+            <polygon points="174,1383.5 204,1353.5 234,1383.5 204,1413.5" style="fill:#ce93d8; stroke:#444; stroke-width:1"></polygon>
+            <title>(is.class(bootHook))</title>
+            <text x="249" y="1388.5" font-family="monospace" font-size="13" fill="#222">
+                <tspan x="249" y="1388.5">(is.class(bootHook))</tspan>
+            </text>
+            
+            <text x="196.2" y="1388.5" font-family="monospace" font-size="13" fill="#222">if</text> <text x="211.8" y="1415.45" font-family="monospace" font-size="13" fill="#222">+</text> <text x="423.9" y="1381.55" font-family="monospace" font-size="13" fill="#222">-</text>
+        </g>
+                <g>
+                   <rect x="224" y="1423.5" width="357.59999999999997" height="30" rx="3" ry="3" style="fill:#90caf9; stroke:#444; stroke-width:1"></rect>
+                   <title>bootHook.prototype.fullPath = bootFilePath</title>
+            <text x="239" y="1443.5" font-family="monospace" font-size="13" fill="#222">
+                <tspan x="239" y="1443.5">bootHook.prototype.fullPath = bootFilePath</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="224" y="1472" width="310.8" height="30" rx="2" ry="2" style="fill:#C5E1A5; stroke:#444; stroke-width:1"></rect>
+                   <title>this.lifecycle.addBootHook(bootHook)</title>
+            <text x="239" y="1492" font-family="monospace" font-size="13" fill="#222">
+                <tspan x="239" y="1492">this.lifecycle.addBootHook(bootHook)</tspan>
+            </text>
+                   
+                   
+                </g><g>
+            <rect x="671.5999999999999" y="1438.5" width="239.39999999999998" height="30" rx="3" ry="3" style="fill:#ce93d8; stroke:#444; stroke-width:1"></rect>                
+            <polygon points="641.5999999999999,1453.5 671.5999999999999,1423.5 701.5999999999999,1453.5 671.5999999999999,1483.5" style="fill:#ce93d8; stroke:#444; stroke-width:1"></polygon>
+            <title>(is.function(bootHook))</title>
+            <text x="716.5999999999999" y="1458.5" font-family="monospace" font-size="13" fill="#222">
+                <tspan x="716.5999999999999" y="1458.5">(is.function(bootHook))</tspan>
+            </text>
+            
+            <text x="663.8" y="1458.5" font-family="monospace" font-size="13" fill="#222">if</text> <text x="679.3999999999999" y="1485.45" font-family="monospace" font-size="13" fill="#222">+</text> <text x="914.8999999999999" y="1451.55" font-family="monospace" font-size="13" fill="#222">-</text>
+        </g>
+                <g>
+                   <rect x="691.5999999999999" y="1493.5" width="388.8" height="30" rx="2" ry="2" style="fill:#C5E1A5; stroke:#444; stroke-width:1"></rect>
+                   <title>this.lifecycle.addFunctionAsBootHook(bootHook)</title>
+            <text x="706.5999999999999" y="1513.5" font-family="monospace" font-size="13" fill="#222">
+                <tspan x="706.5999999999999" y="1513.5">this.lifecycle.addFunctionAsBootHook(bootHook)</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="1140.3999999999999" y="1493.5" width="443.4" height="30" rx="2" ry="2" style="fill:#C5E1A5; stroke:#444; stroke-width:1"></rect>
+                   <title>this.options.logger.warn('[egg-loader] %s must exports a boot class', bootFilePath)</title>
+            <text x="1155.3999999999999" y="1513.5" font-family="monospace" font-size="13" fill="#222">
+                <tspan x="1155.3999999999999" y="1513.5">this.options.logger.warn('[egg-loader] %s must exp...</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="124" y="1543.5" width="193.79999999999998" height="30" rx="2" ry="2" style="fill:#C5E1A5; stroke:#444; stroke-width:1"></rect>
+                   <title>this.lifecycle.init()</title>
+            <text x="139" y="1563.5" font-family="monospace" font-size="13" fill="#222">
+                <tspan x="139" y="1563.5">this.lifecycle.init()</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="124" y="1592" width="92.4" height="30" rx="3" ry="3" style="fill:#90caf9; stroke:#444; stroke-width:1"></rect>
+                   <title>fileName</title>
+            <text x="139" y="1612" font-family="monospace" font-size="13" fill="#222">
+                <tspan x="139" y="1612">fileName</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="124" y="1640.5" width="326.4" height="30" rx="2" ry="2" style="fill:#C5E1A5; stroke:#444; stroke-width:1"></rect>
+                   <title>this.timing.end(`Load ${fileName}.js`)</title>
+            <text x="139" y="1660.5" font-family="monospace" font-size="13" fill="#222">
+                <tspan x="139" y="1660.5">this.timing.end(`Load ${fileName}.js`)</tspan>
+            </text>
+                   
+                   
+                </g>
+            <g>
+               <rect x="25" y="13.75" width="216.6" height="24" style="fill:#fff59d; stroke:#444; stroke-width:1"></rect>
+               <circle cx="25" cy="25" r="15" style="fill:#fff59d; stroke:#444; stroke-width:1"></circle>
+               <title>Program: source module</title>
+            <text x="55" y="30" font-family="monospace" font-size="13" fill="#222">
+                <tspan x="55" y="30">Program: source module</tspan>
+            </text>
+            </g>
+            <g>
+               <path d="M25, 40 L25 76 Q25 80
+                29 80
+                L42 80 " style="fill:none; stroke:#444; stroke-width:1"></path>
+               <path d="M42, 77 L50, 80 L42, 83 Z" fill="#333"></path>
+            </g>
+            <g>
+               <path d="M25, 40 L25 124.5 Q25 128.5
+                29 128.5
+                L42 128.5 " style="fill:none; stroke:#444; stroke-width:1"></path>
+               <path d="M42, 125.5 L50, 128.5 L42, 131.5 Z" fill="#333"></path>
+            </g>
+            <g>
+               <path d="M25, 40 L25 173 Q25 177
+                29 177
+                L42 177 " style="fill:none; stroke:#444; stroke-width:1"></path>
+               <path d="M42, 174 L50, 177 L42, 180 Z" fill="#333"></path>
+            </g>
+            <g>
+               <path d="M25, 40 L25 221.5 Q25 225.5
+                29 225.5
+                L42 225.5 " style="fill:none; stroke:#444; stroke-width:1"></path>
+               <path d="M42, 222.5 L50, 225.5 L42, 228.5 Z" fill="#333"></path>
+            </g>
+            <g>
+               <path d="M68.5, 240.5 L68.5 285 Q68.5 289
+                72.5 289
+                L87 289 " style="fill:none; stroke:#444; stroke-width:1"></path>
+               false
+            </g>
+            <g>
+               <path d="M105.5, 304 L105.5 333.5 Q105.5 337.5
+                109.5 337.5
+                L116 337.5 " style="fill:none; stroke:#444; stroke-width:1"></path>
+               <path d="M116, 334.5 L124, 337.5 L116, 340.5 Z" fill="#333"></path>
+            </g>
+            <g>
+               <path d="M105.5, 304 L105.5 382 Q105.5 386
+                109.5 386
+                L116 386 " style="fill:none; stroke:#444; stroke-width:1"></path>
+               <path d="M116, 383 L124, 386 L116, 389 Z" fill="#333"></path>
+            </g>
+            <g>
+               <path d="M105.5, 304 L105.5 430.5 Q105.5 434.5
+                109.5 434.5
+                L116 434.5 " style="fill:none; stroke:#444; stroke-width:1"></path>
+               <path d="M116, 431.5 L124, 434.5 L116, 437.5 Z" fill="#333"></path>
+            </g>
+            <g>
+               <path d="M68.5, 240.5 L68.5 494 Q68.5 498
+                72.5 498
+                L87 498 " style="fill:none; stroke:#444; stroke-width:1"></path>
+               false
+            </g>
+            <g>
+               <path d="M105.5, 513 L105.5 542.5 Q105.5 546.5
+                109.5 546.5
+                L116 546.5 " style="fill:none; stroke:#444; stroke-width:1"></path>
+               <path d="M116, 543.5 L124, 546.5 L116, 549.5 Z" fill="#333"></path>
+            </g>
+            <g>
+               <path d="M105.5, 513 L105.5 591 Q105.5 595
+                109.5 595
+                L116 595 " style="fill:none; stroke:#444; stroke-width:1"></path>
+               <path d="M116, 592 L124, 595 L116, 598 Z" fill="#333"></path>
+            </g>
+            <g>
+               <path d="M105.5, 513 L105.5 639.5 Q105.5 643.5
+                109.5 643.5
+                L116 643.5 " style="fill:none; stroke:#444; stroke-width:1"></path>
+               <path d="M116, 640.5 L124, 643.5 L116, 646.5 Z" fill="#333"></path>
+            </g>
+            <g>
+               <path d="M68.5, 240.5 L68.5 703 Q68.5 707
+                72.5 707
+                L87 707 " style="fill:none; stroke:#444; stroke-width:1"></path>
+               false
+            </g>
+            <g>
+               <path d="M105.5, 722 L105.5 751.5 Q105.5 755.5
+                109.5 755.5
+                L116 755.5 " style="fill:none; stroke:#444; stroke-width:1"></path>
+               <path d="M116, 752.5 L124, 755.5 L116, 758.5 Z" fill="#333"></path>
+            </g>
+            <g>
+               <path d="M68.5, 240.5 L68.5 815 Q68.5 819
+                72.5 819
+                L87 819 " style="fill:none; stroke:#444; stroke-width:1"></path>
+               false
+            </g>
+            <g>
+               <path d="M105.5, 834 L105.5 863.5 Q105.5 867.5
+                109.5 867.5
+                L116 867.5 " style="fill:none; stroke:#444; stroke-width:1"></path>
+               <path d="M116, 864.5 L124, 867.5 L116, 870.5 Z" fill="#333"></path>
+            </g>
+            <g>
+               <path d="M105.5, 834 L105.5 912 Q105.5 916
+                109.5 916
+                L116 916 " style="fill:none; stroke:#444; stroke-width:1"></path>
+               <path d="M116, 913 L124, 916 L116, 919 Z" fill="#333"></path>
+            </g>
+            <g>
+               <path d="M105.5, 834 L105.5 960.5 Q105.5 964.5
+                109.5 964.5
+                L116 964.5 " style="fill:none; stroke:#444; stroke-width:1"></path>
+               <path d="M116, 961.5 L124, 964.5 L116, 967.5 Z" fill="#333"></path>
+            </g>
+            <g>
+               <path d="M105.5, 834 L105.5 1044 Q105.5 1048
+                109.5 1048
+                L116 1048 " style="fill:none; stroke:#444; stroke-width:1"></path>
+               <path d="M116, 1045 L124, 1048 L116, 1051 Z" fill="#333"></path>
+            </g>
+            <g>
+               <path d="M154, 1078 L154 1099 Q154 1103
+                158 1103
+                L166 1103 " style="fill:none; stroke:#444; stroke-width:1"></path>
+               <path d="M166, 1100 L174, 1103 L166, 1106 Z" fill="#333"></path>
+            </g>
+            <g>
+               <path d="M154, 1078 L154 1147.5 Q154 1151.5
+                158 1151.5
+                L166 1151.5 " style="fill:none; stroke:#444; stroke-width:1"></path>
+               <path d="M166, 1148.5 L174, 1151.5 L166, 1154.5 Z" fill="#333"></path>
+            </g>
+            <g>
+               <path d="M154, 1078 L154 1211 Q154 1215
+                158 1215
+                L166 1215 " style="fill:none; stroke:#444; stroke-width:1"></path>
+               <path d="M166, 1212 L174, 1215 L166, 1218 Z" fill="#333"></path>
+            </g>
+            <g>
+               <path d="M204, 1245 L204 1266 Q204 1270
+                208 1270
+                L216 1270 " style="fill:none; stroke:#444; stroke-width:1"></path>
+               <path d="M216, 1267 L224, 1270 L216, 1273 Z" fill="#333"></path>
+            </g>
+            <g>
+               <path d="M154, 1078 L154 1316 Q154 1320
+                158 1320
+                L166 1320 " style="fill:none; stroke:#444; stroke-width:1"></path>
+               <path d="M166, 1317 L174, 1320 L166, 1323 Z" fill="#333"></path>
+            </g>
+            <g>
+               <path d="M154, 1078 L154 1379.5 Q154 1383.5
+                158 1383.5
+                L166 1383.5 " style="fill:none; stroke:#444; stroke-width:1"></path>
+               <path d="M166, 1380.5 L174, 1383.5 L166, 1386.5 Z" fill="#333"></path>
+            </g>
+            <g>
+               <path d="M204, 1413.5 L204 1434.5 Q204 1438.5
+                208 1438.5
+                L216 1438.5 " style="fill:none; stroke:#444; stroke-width:1"></path>
+               <path d="M216, 1435.5 L224, 1438.5 L216, 1441.5 Z" fill="#333"></path>
+            </g>
+            <g>
+               <path d="M204, 1413.5 L204 1483 Q204 1487
+                208 1487
+                L216 1487 " style="fill:none; stroke:#444; stroke-width:1"></path>
+               <path d="M216, 1484 L224, 1487 L216, 1490 Z" fill="#333"></path>
+            </g>
+            <g>
+               <path d="M420, 1383.5 L617.5999999999999 1383.5  Q621.5999999999999 1383.5
+                621.5999999999999 1387.5
+                L621.5999999999999 1445.5 Q621.5999999999999 1453.5
+                625.5999999999999 1453.5
+                L633.5999999999999 1453.5 " style="fill:none; stroke:#444; stroke-width:1"></path>
+               <path d="M633.5999999999999, 1450.5 L641.5999999999999, 1453.5 L633.5999999999999, 1456.5 Z" fill="#333"></path>
+            </g>
+            <g>
+               <path d="M671.5999999999999, 1483.5 L671.5999999999999 1504.5 Q671.5999999999999 1508.5
+                675.5999999999999 1508.5
+                L683.5999999999999 1508.5 " style="fill:none; stroke:#444; stroke-width:1"></path>
+               <path d="M683.5999999999999, 1505.5 L691.5999999999999, 1508.5 L683.5999999999999, 1511.5 Z" fill="#333"></path>
+            </g>
+            <g>
+               <path d="M910.9999999999999, 1453.5 L1116.3999999999999 1453.5  Q1120.3999999999999 1453.5
+                1120.3999999999999 1457.5
+                L1120.3999999999999 1500.5 Q1120.3999999999999 1508.5
+                1124.3999999999999 1508.5
+                L1132.3999999999999 1508.5 " style="fill:none; stroke:#444; stroke-width:1"></path>
+               <path d="M1132.3999999999999, 1505.5 L1140.3999999999999, 1508.5 L1132.3999999999999, 1511.5 Z" fill="#333"></path>
+            </g>
+            <g>
+               <path d="M1583.7999999999997, 1508.5 L1599.7999999999997 1508.5  Q1603.7999999999997 1508.5
+                1603.7999999999997 1504.5
+                L1603.7999999999997 1006 Q1603.7999999999997 998
+                1599.7999999999997 998
+                L162 998  Q154 998
+                154 1002
+                L154 1010" style="fill:none; stroke:#444; stroke-width:1"></path>
+               <path d="M151, 1010 L154, 1018 L157, 1010 Z" fill="#333"></path>
+            </g>
+            <g>
+               <path d="M105.5, 834 L105.5 1554.5 Q105.5 1558.5
+                109.5 1558.5
+                L116 1558.5 " style="fill:none; stroke:#444; stroke-width:1"></path>
+               <path d="M116, 1555.5 L124, 1558.5 L116, 1561.5 Z" fill="#333"></path>
+            </g>
+            <g>
+               <path d="M105.5, 834 L105.5 1603 Q105.5 1607
+                109.5 1607
+                L116 1607 " style="fill:none; stroke:#444; stroke-width:1"></path>
+               <path d="M116, 1604 L124, 1607 L116, 1610 Z" fill="#333"></path>
+            </g>
+            <g>
+               <path d="M105.5, 834 L105.5 1651.5 Q105.5 1655.5
+                109.5 1655.5
+                L116 1655.5 " style="fill:none; stroke:#444; stroke-width:1"></path>
+               <path d="M116, 1652.5 L124, 1655.5 L116, 1658.5 Z" fill="#333"></path>
+            </g>
+            </svg>
