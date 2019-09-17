@@ -21,7 +21,7 @@ digraph G {
   "lib/loader/mixin/custom_loader.js";
   "lib/loader/mixin/extend.js";
   "lib/loader/mixin/middleware.js";
-  "lib/loader/mixin/plugin.js";
+ "lib/loader/mixin/plugin.js"[href="#libloadermixinpulginjs"];
   "lib/loader/mixin/router.js";
   "lib/loader/mixin/service.js";
   "lib/utils/sequencify.js";

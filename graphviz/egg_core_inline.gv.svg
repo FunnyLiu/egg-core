@@ -222,8 +222,11 @@
 <!-- lib/loader/mixin/plugin.js -->
 <g id="node16" class="node">
 <title>lib/loader/mixin/plugin.js</title>
+<g id="a_node16"><a xlink:href="#libloadermixinpulginjs" xlink:title="lib/loader/mixin/plugin.js">
 <path fill="#e5e5e5" stroke="#000000" d="M592.1711,-1002.7008C592.1711,-1002.7008 450.1285,-1002.7008 450.1285,-1002.7008 446.0282,-1002.7008 441.928,-998.6005 441.928,-994.5003 441.928,-994.5003 441.928,-986.2997 441.928,-986.2997 441.928,-982.1995 446.0282,-978.0992 450.1285,-978.0992 450.1285,-978.0992 592.1711,-978.0992 592.1711,-978.0992 596.2714,-978.0992 600.3716,-982.1995 600.3716,-986.2997 600.3716,-986.2997 600.3716,-994.5003 600.3716,-994.5003 600.3716,-998.6005 596.2714,-1002.7008 592.1711,-1002.7008"/>
 <text text-anchor="middle" x="521.1498" y="-986.2" font-family="Times,serif" font-size="14.00" fill="#000000">lib/loader/mixin/plugin.js</text>
+</a>
+</g>
 </g>
 <!-- lib/loader/egg_loader.js&#45;&gt;lib/loader/mixin/plugin.js -->
 <g id="edge21" class="edge">
