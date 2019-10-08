@@ -70,7 +70,9 @@
 
 ### lib/lifecycle.js
 
-提供生命周期钩子函数，执行时逐个运行注册在不同生命周期阶段的函数列表
+提供生命周期钩子函数，执行时逐个运行注册在不同生命周期阶段的函数列表。
+
+提供方法触发生命周期之configWillLoad，configDidLoad，didLoad，willReady，didReady，serverDidReady，beforeClose。
 
 
 ### lib/loader/egg_loader.js
@@ -109,6 +111,8 @@
 ### lib/loader/mixin/custom.js
 
 自定义app和agent的加载，提供loadCustomApp方法供继承者egg.js中去调用。增加生命周期钩子和执行。
+
+loadCustomApp首先解析app.js和agent.js。再调用了lifecycle.js的triggerConfigWillLoad方法，触发生命周期之configWillLoad。
 
 
 ### lib/loader/mixin/service.js
