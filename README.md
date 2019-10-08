@@ -26,7 +26,7 @@
 |     ├── base_context_class.js - 简单组装一些参数到this上，如ctx.app,ctx.app.config,ctx.service
 |     ├── index.js
 |     ├── sequencify.js
-|     └── timing.js - 计时器对象
+|     └── timing.js - 计时器对象，挂载到this.timing上
 ```
 
 ## 外部模块依赖
