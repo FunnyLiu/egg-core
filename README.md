@@ -10,7 +10,7 @@
 |  ├── lifecycle.js - 提供生命周期钩子函数，执行时逐个运行注册在不同生命周期阶段的函数列表
 |  ├── loader
 |  |  ├── context_loader.js - 加载内容到到 ctx，只有get，懒加载
-|  |  ├── egg_loader.js - 包含context_loader,file_loader和mixin下各个挂载方法的loader对象。
+|  |  ├── egg_loader.js - 包含context_loader,file_loader和mixin下各个挂载方法的loader对象，提供loadToContext方法挂载对象到ctx上。
 |  |  ├── file_loader.js - 加载一个目录下的文件到 app，比如 app/controller/home.js 会加载到 app.controller.home
 |  |  └── mixin
 |  |     ├── config.js - 提供loadConfig方法，根据规约获取配置参数，挂载在egg_loader.js的原型上，提供给继承者egg.js中的agent_worker_loader.js和app_worker_loader.js
@@ -77,7 +77,10 @@
 
 ### lib/loader/egg_loader.js
 
-包含context_loader,file_loader和mixin下各个挂载方法的loader对象
+包含context_loader,file_loader和mixin下各个挂载方法的loader对象。
+
+提供loadToContext方法挂载对象到ctx上，其又是基于context_loader.js。
+
 
 
 
@@ -85,11 +88,15 @@
 
 加载一个目录下的文件到 app，比如 app/controller/home.js 会加载到 app.controller.home
 
+解析各种风格的命名如foo_bar,fooBar,FooBar等
 
 
 ### lib/loader/context_loader.js
 
+继承自file_loader的FileLoader。
+
 加载内容到到 ctx，只有get，懒加载。
+
 
 
 
